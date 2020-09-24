@@ -72,5 +72,25 @@
                 "name": "Merchandise"
             }
         ]
+    },
+    "comminities": {
+        "data": [
+            {
+                "id": 1,
+                "title": "Community Title 1",
+                "description": "Community Description 1",
+                "createdDate": "2020-01-01",
+                "contentType": "C",
+                "createdBy": "Faisal"
+            },
+            {
+                "id": 2,
+                "title": "Community Title 2",
+                "description": "Community Description 2",
+                "createdDate": "2020-01-01",
+                "contentType": "C",
+                "createdBy": "Faisal"
+            }
+        ]
     }
 }
