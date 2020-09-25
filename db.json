@@ -92,5 +92,17 @@
                 "createdBy": "Faisal"
             }
         ]
+    },
+    "login": {
+        "status": 1,
+        "message": "Login sukses",
+        "data": {
+            "id": 1,
+            "name": "User koi",
+            "password": "123456",
+            "token": "tokenabc",
+            "email": "userkoi@mail.com",
+            "photoUrl": "https://kabupatenblitar.files.wordpress.com/2018/08/ikan-koi-blitar.png?crop"
+        }
     }
 }
