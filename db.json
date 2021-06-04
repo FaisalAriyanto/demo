@@ -104,5 +104,22 @@
             "email": "userkoi@mail.com",
             "photoUrl": "https://kabupatenblitar.files.wordpress.com/2018/08/ikan-koi-blitar.png?crop"
         }
-    }
+    },
+    "song": [
+        {
+            "songTitle": "Aku Cinta Monyet",
+            "songAuthor": "Peter Parker",
+            "songImage": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/nationalgeographic/201103170658350_b.jpg"
+        },
+        {
+            "songTitle": "Aku Cinta Kamu",
+            "songAuthor": "Peter Parker",
+            "songImage": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/nationalgeographic/201103170658350_b.jpg"
+        },
+        {
+            "songTitle": "Aku Cinta 💩",
+            "songAuthor": "Peter Parker",
+            "songImage": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/nationalgeographic/201103170658350_b.jpg"
+        }
+    ]
 }
